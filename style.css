@@ -1,14 +1,31 @@
 body {
+    background: url(https://cdn.unenvironment.org/styles/article_billboard_image/s3/2021-09/tree-2916763_1920.jpg?h=15e72a48&itok=wQsoelty);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
 }
 
 main#container {
+    color: rgb(230, 255, 4);
+        font-size: 15px;
+        font-family: var(--font1);
+        background-color: rgba(146, 194, 131, 0.452);
+}
+main#container:hover {
+            color: rgb(214, 153, 22);
+            font-size: 26px;
+            font-family: var(--font1);
+            
 }
 
 h1.titulo {
-}
+   
+    }
+
 
 p.frase {
 }
 
 p.autor {
-}
+}   
+   
